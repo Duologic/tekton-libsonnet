@@ -7,7 +7,7 @@ Jsonnet library for https://tekton.dev/
 Install it with jsonnet-bundler:
 
 ```console
-jb install https://github.com/Duologic/tekton-libsonnet`
+jb install https://github.com/Duologic/tekton-libsonnet
 ```
 
 Import into your jsonnet:
